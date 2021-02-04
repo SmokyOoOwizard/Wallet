@@ -1,0 +1,11 @@
+{
+  "name": "com.tsar.wallet",
+  "version": "0.0.1",
+  "displayName": "Wallet Package",
+  "unity": "2020.2",
+  "type": "library"
+  "author": {
+    "name": "Artem Tsarstvennyy",
+    "email": "smoky-santa-claus@yandex.ru"
+  }
+}
